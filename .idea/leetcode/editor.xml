@@ -75,6 +75,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[807]MaxIncreaseToKeepCitySkyline.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[807]保持城市天际线.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[807]保持城市天际线.java" />
+              <option name="questionId" value="825" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[807]保持城市天际线.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[807]保持城市天际线.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[807]保持城市天际线.java" />
+              <option name="questionId" value="825" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
