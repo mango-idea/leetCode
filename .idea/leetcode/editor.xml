@@ -3,6 +3,15 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1034]边界着色.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[1034]边界着色.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1034]边界着色.java" />
+              <option name="questionId" value="1104" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[13]罗马数字转整数.java">
           <value>
             <LeetcodeEditor>
@@ -48,11 +57,11 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[748]ShortestCompletingWord.java">
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[748]最短补全词.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[748]ShortestCompletingWord.md" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[748]ShortestCompletingWord.java" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[748]最短补全词.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[748]最短补全词.java" />
               <option name="questionId" value="749" />
             </LeetcodeEditor>
           </value>
