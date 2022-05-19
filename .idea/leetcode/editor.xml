@@ -8,7 +8,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[1034]边界着色.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1034]边界着色.java" />
-              <option name="questionId" value="1104" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -17,7 +16,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[1078]Bigram 分词.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1078]Bigram 分词.java" />
-              <option name="questionId" value="1156" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -26,7 +24,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[13]罗马数字转整数.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[13]罗马数字转整数.java" />
-              <option name="questionId" value="13" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -35,7 +32,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[1816]截断句子.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1816]截断句子.java" />
-              <option name="questionId" value="1944" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -44,7 +40,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[1995]统计特殊四元组.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1995]统计特殊四元组.java" />
-              <option name="questionId" value="2122" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -53,7 +48,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[1]两数之和.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1]两数之和.java" />
-              <option name="questionId" value="1" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -62,7 +56,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[383]赎金信.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[383]赎金信.java" />
-              <option name="questionId" value="383" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[462]最少移动次数使数组元素相等 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[462]最少移动次数使数组元素相等 II.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com462" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[462]最少移动次数使数组元素相等 II.java" />
+              <option name="titleSlug" value="minimum-moves-to-equal-array-elements-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -71,7 +75,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[506]相对名次.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[506]相对名次.java" />
-              <option name="questionId" value="506" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -80,7 +83,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[748]最短补全词.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[748]最短补全词.java" />
-              <option name="questionId" value="749" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -89,7 +91,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[784]字母大小写全排列.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[784]字母大小写全排列.java" />
-              <option name="questionId" value="800" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -98,7 +99,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[7]整数反转.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[7]整数反转.java" />
-              <option name="questionId" value="7" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -107,7 +107,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[807]保持城市天际线.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[807]保持城市天际线.java" />
-              <option name="questionId" value="825" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -116,7 +115,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[807]保持城市天际线.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[807]保持城市天际线.java" />
-              <option name="questionId" value="825" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -125,7 +123,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[825]适龄的朋友.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[825]适龄的朋友.java" />
-              <option name="questionId" value="852" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -134,7 +131,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[851]喧闹和富有.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[851]喧闹和富有.java" />
-              <option name="questionId" value="881" />
             </LeetcodeEditor>
           </value>
         </entry>
