@@ -19,6 +19,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1282]用户分组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[1282]用户分组.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1282" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1282]用户分组.java" />
+              <option name="titleSlug" value="group-the-people-given-the-group-size-they-belong-to" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[13]罗马数字转整数.java">
           <value>
             <LeetcodeEditor>
@@ -59,6 +70,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[436]寻找右区间.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[436]寻找右区间.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com436" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[436]寻找右区间.java" />
+              <option name="titleSlug" value="find-right-interval" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[462]最少移动次数使数组元素相等 II.java">
           <value>
             <LeetcodeEditor>
@@ -75,6 +97,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[506]相对名次.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[506]相对名次.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[558]四叉树交集.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[558]四叉树交集.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com558" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[558]四叉树交集.java" />
+              <option name="titleSlug" value="logical-or-of-two-binary-grids-represented-as-quad-trees" />
             </LeetcodeEditor>
           </value>
         </entry>
