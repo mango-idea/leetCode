@@ -19,6 +19,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1224]最大相等频率.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[1224]最大相等频率.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1224" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1224]最大相等频率.java" />
+              <option name="titleSlug" value="maximum-equal-frequency" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1282]用户分组.java">
           <value>
             <LeetcodeEditor>
@@ -35,6 +46,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[13]罗马数字转整数.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[13]罗马数字转整数.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1464]数组中两元素的最大乘积.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[1464]数组中两元素的最大乘积.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1464" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[1464]数组中两元素的最大乘积.java" />
+              <option name="titleSlug" value="maximum-product-of-two-elements-in-an-array" />
             </LeetcodeEditor>
           </value>
         </entry>
